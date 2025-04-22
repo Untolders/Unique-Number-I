@@ -10,14 +10,14 @@ Explanation: Since 2 occurs once, while other numbers occur twice, 2 is the answ
 Input: arr[] = [2, 30, 2, 15, 20, 30, 15]
 Output: 20
 Explanation: Since 20 occurs once, while other numbers occur twice, 20 is the answer.
-```cpp
+```
 Constraints
 1 ≤  arr.size()  ≤ 106
 0 ≤ arr[i] ≤ 109
 
 
 
-```
+```cpp
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 
